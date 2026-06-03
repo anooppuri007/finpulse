@@ -1,9 +1,9 @@
 # 📡 FinPulse by Anoop Puri
-### AI Financial Intelligence for Every Investor — Free Forever
+### AI Financial Intelligence for Every Investor 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finpulse.streamlit.app)
 
-> "What BlackRock's Aladdin does for hedge funds — FinPulse does for everyone. Free."
+> " "
 
 ---
 
@@ -29,7 +29,7 @@
 | Auto-Refresh | Every 1 hour automatically |
 | Manual Refresh | One-click fresh data anytime |
 
-### ⚡ Aladdin Intelligence Suite (Advanced Features)
+###
 | Feature | What it does |
 |---|---|
 | **Technical Signal Scanner** | RSI, MACD, Bollinger Bands, MA Cross, Volume — Buy/Sell/Neutral signal for any global ticker |
@@ -106,5 +106,5 @@ streamlit run app.py
 
 ---
 
-*FinPulse by Anoop Puri — AI for Finance Certificate Project*  
-*Built 100% on Free Tools — No paid APIs, No login required*
+*FinPulse by Anoop Puri *  
+
