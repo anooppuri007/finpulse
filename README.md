@@ -1,5 +1,5 @@
 # 📡 FinPulse by Anoop Puri
-### Smart Financial Intelligence for Every Investor — Free Forever
+### Smart Financial Intelligence for Every Investor 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finpulse.streamlit.app)
 
@@ -10,7 +10,7 @@ FinPulse is a free, AI-powered financial intelligence platform built from scratc
 for retail investors, students, and finance enthusiasts who want professional-quality
 market intelligence without the cost or complexity of traditional platforms.
 
-**Built 100% on free tools. No login. No cost. Just intelligence.**
+
 
 ---
 
@@ -98,5 +98,4 @@ streamlit run app.py
 
 ---
 
-*FinPulse by Anoop Puri — AI for Finance Certificate Project*
-*Built 100% on Free Tools — No paid APIs, No login required*
+*FinPulse by Anoop Puri *
